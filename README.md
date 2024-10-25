@@ -13,5 +13,5 @@ Assumptions during each time window:
 
 Since simulations typically span many years, the real financial results can be subject to many changes. 
 
-## Disclaimer:
+## Disclaimer
 Do not use for any form of financial advise!
